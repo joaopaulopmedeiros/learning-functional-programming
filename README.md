@@ -9,13 +9,13 @@ Repository for learning functional programming with JS.
 > computer programs — that treats computation as the evaluation of mathematical functions and avoids 
 > changing-state and mutable data — Wikipedia
 
-### Summary
+### 👀 Summary
 - Pure functions
 - Immutability
 - Functions as first-class entities
 - Higher-order functions
 
-### Pure functions
+### ▶️ Pure functions
 What does make a function pure?
 - deterministic: It returns the same result if given the same arguments.
 - There are not side effects
@@ -24,15 +24,15 @@ Tips:
 - Presence of const key word.
 - It returns someting instead of just cause some side effect like console.
 
-#### Immutability
+### ▶️ Immutability
 When data is immutable, its state can not change after it’s created. If you want to change an immutable object, you can’t. Instead, you create a new object with the new value.
 
-### Functions as first-class entities
+### ▶️ Functions as first-class entities
 - You can refer to it from constants and variables
 - You can pass it as a parameter to other functions
 - You can return it as result from other functions
 
-### Higher-order functions
+### ▶️ Higher-order functions
 It means a function that either:
 - takes one or more functions as arguments, or
 - returns a function as its result
