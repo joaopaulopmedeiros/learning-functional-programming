@@ -45,6 +45,6 @@ Examples:
 - [FreeCodeCamp's Article](https://www.freecodecamp.org/news/functional-programming-principles-in-javascript-1b8fc6c3563f/)
 - [OpenSource's Article](https://opensource.com/article/17/6/functional-javascript)
 - [Rocketseat's Video - pt-br](https://www.youtube.com/watch?v=rAzHvYnQ8DY)
-- [Roger Melo's Video](https://www.youtube.com/watch?v=sbpPBFx8cdw)
+- [Roger Melo's Video - pt-br](https://www.youtube.com/watch?v=sbpPBFx8cdw)
 
 Cya, folks! I hope we all learn together 🌟
