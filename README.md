@@ -17,7 +17,7 @@ Repository for learning functional programming with JS.
 
 ### 2. Pure functions
 What does make a function pure?
-- deterministic: It returns the same result if given the same arguments.
+- Deterministic: It returns the same result if given the same arguments.
 - There are not side effects
 Tips:
 - Any function that relies on a random number generator can not be pure.
